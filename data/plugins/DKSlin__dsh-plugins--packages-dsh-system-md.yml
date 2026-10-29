@@ -1,0 +1,6 @@
+url: https://github.com/DKSlin/dsh-plugins/tree/main/packages/dsh-system-md
+name: DKSlin/dsh-plugins#dsh-system-md
+category: identity
+description:
+  en: 'A project-owned .dsh/SYSTEM.md replaces the entire built-in system prompt for sessions created in that project: the file is re-read on every assembly, and projects without it keep the normal prompt.'
+  zh: '工程目录里的 .dsh/SYSTEM.md 会整体替换该工程会话的内置系统提示词，每次装配重新读取；没有该文件的工程保持原样。'
