@@ -1,0 +1,6 @@
+url: https://github.com/DKSlin/dsh-plugins/tree/main/packages/dsh-system-prefix
+name: DKSlin/dsh-plugins#dsh-system-prefix
+category: identity
+description:
+  en: 'Prepends one configurable sentence above every other system-prompt section of a new top-level session, leaving the built-in prompt intact; the sentence is edited from the plugin settings page.'
+  zh: '在新会话的系统提示词最顶部插入一句可配置的话，内置提示词保持不变；这句话在插件设置页里编辑。'

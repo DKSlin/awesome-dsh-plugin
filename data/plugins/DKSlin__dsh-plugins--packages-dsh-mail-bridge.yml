@@ -1,0 +1,6 @@
+url: https://github.com/DKSlin/dsh-plugins/tree/main/packages/dsh-mail-bridge
+name: DKSlin/dsh-plugins#dsh-mail-bridge
+category: remote
+description:
+  en: 'Emails each finished turn and every pending question to your phone, and replying to that email continues the session. Whitelisted senders only, top-level sessions only, and replies can only reach sessions that already exist.'
+  zh: '每轮回复和每个待答问题发到手机邮箱，直接回复邮件即可让会话继续；只接受白名单发件人、只推顶层会话，短码只指向已存在的会话。'
