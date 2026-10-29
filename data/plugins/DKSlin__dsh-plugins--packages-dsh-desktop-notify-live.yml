@@ -1,0 +1,6 @@
+url: https://github.com/DKSlin/dsh-plugins/tree/main/packages/dsh-desktop-notify-live
+name: DKSlin/dsh-plugins#dsh-desktop-notify-live
+category: notify
+description:
+  en: 'Windows toast notification plus a ding when the agent asks a question or a turn ends; the toast is silent and the sound is played separately, with per-event switches and duplicate suppression.'
+  zh: '提问或回合结束时弹出 Windows 气泡并响叮咚：气泡本身静音、声音单独播放，支持逐事件开关与重复抑制。'
