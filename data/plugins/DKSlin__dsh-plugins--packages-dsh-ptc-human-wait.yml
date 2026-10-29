@@ -1,0 +1,6 @@
+url: https://github.com/DKSlin/dsh-plugins/tree/main/packages/dsh-ptc-human-wait
+name: DKSlin/dsh-plugins#dsh-ptc-human-wait
+category: tools
+description:
+  en: 'Pauses the run_code execution deadline while a nested ask_user_question is waiting for the user, so a slow answer no longer kills the program; a program that never asks still ends at the normal deadline.'
+  zh: 'run_code 里嵌套 ask_user_question 等待用户回答时暂停执行超时，回答慢不再杀掉整个程序；从不提问的程序仍按原定超时终止。'
